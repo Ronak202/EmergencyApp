@@ -1,0 +1,23 @@
+# === Core Flask Framework ===
+Flask==3.0.3
+Flask-Cors==4.0.1
+
+# === Database (MySQL) ===
+mysql-connector-python==9.0.0
+
+# === Machine Learning / NLP ===
+numpy==1.26.4
+scikit-learn==1.5.2
+
+# === API / HTTP Requests ===
+requests==2.32.3
+
+# === Environment / Security ===
+python-dotenv==1.0.1
+Werkzeug==3.0.3
+
+# === Messaging (WhatsApp / Twilio) ===
+twilio==9.3.3
+
+# === Optional Utilities ===
+gunicorn==22.0.0     # for deployment
