@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🚨 WeCare Emergency</title>
+
+<!-- ✅ Favicon -->
+<link rel="icon" type="image/png" href="icon.png" />
+
+<!-- Google Font -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  --red: #ff3333;
+  --orange: #ff7b00;
+  --blue: #009dff;
+  --green: #00ff99;
+  --black: #080808;
+  --gray: #bfbfbf;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(45deg, #000000, #0a1a2f, #180033, #001a1a, #000);
+  background-size: 300% 300%;
+  animation: bgShift 14s ease-in-out infinite;
+  color: white;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+@keyframes bgShift {
+  0% { background-position: 0% 50%; }
+  25% { background-position: 100% 50%; }
+  50% { background-position: 100% 100%; }
+  75% { background-position: 0% 100%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* ---------- HEADER ---------- */
+.header {
+  width: 100%;
+  background: rgba(25, 25, 25, 0.85);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 25px;
+  font-size: 1.5em;
+  font-weight: 700;
+  color: var(--red);
+  box-shadow: 0 4px 20px rgba(255, 0, 0, 0.25);
+  backdrop-filter: blur(6px);
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.back-btn, .logout-btn {
+  padding: 8px 15px;
+  font-size: 0.9em;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.4s ease;
+  color: #000;
+  background: linear-gradient(90deg, #00c3ff, #00ff99);
+  box-shadow: 0 4px 15px rgba(0, 255, 136, 0.3);
+}
+
+.back-btn:hover, .logout-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0, 195, 255, 0.4);
+}
+
+.logout-btn {
+  background: linear-gradient(90deg, #ff5f5f, #ffb84d);
+  color: #fff;
+}
+.logout-btn:hover {
+  background: linear-gradient(90deg, #ff3333, #ffaa00);
+}
+
+/* ---------- CONTAINER ---------- */
+.container {
+  background: rgba(255, 255, 255, 0.07);
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.25);
+  padding: 35px 30px;
+  margin-top: 50px;
+  width: 90%;
+  max-width: 650px;
+  backdrop-filter: blur(12px);
+  animation: fadeIn 1s ease forwards;
+  opacity: 0;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.container h2 {
+  text-align: center;
+  color: var(--red);
+  text-shadow: 0 0 15px rgba(255, 0, 0, 0.5);
+  margin-bottom: 20px;
+}
+
+/* ---------- TEXTAREA ---------- */
+textarea {
+  width: 100%;
+  height: 130px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 2px solid rgba(0, 255, 255, 0.3);
+  border-radius: 10px;
+  color: #060606;
+  padding: 14px;
+  font-size: 2em;
+  resize: none;
+  outline: none;
+  transition: 0.3s;
+}
+
+textarea:focus {
+  border-color: var(--blue);
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.4);
+  font-weight: bold;
+  color: #000000;
+  font-size: 1.6em;
+}
+
+/* ---------- BUTTONS ---------- */
+.btn-group {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  gap: 10px;
+}
+
+button {
+  flex: 1;
+  border: none;
+  border-radius: 10px;
+  padding: 12px;
+  font-weight: bold;
+  font-size: 1.1em;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button.send {
+  background: linear-gradient(90deg, #ff4d4d, #750303);
+  box-shadow: 0 0 15px rgba(255, 153, 51, 0.3);
+}
+button.send:hover {
+  background: linear-gradient(90deg, #f83b3b, #ff3333);
+  transform: translateY(-3px);
+}
+
+button.mic {
+  background: linear-gradient(90deg, #0099ff, #33ff99);
+  box-shadow: 0 0 15px rgba(0, 195, 255, 0.3);
+}
+button.mic:hover {
+  background: linear-gradient(90deg, #33ff99, #0077ff);
+  transform: translateY(-3px);
+}
+
+/* ---------- LOADER ---------- */
+.loader {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-top: 25px;
+}
+.loader div {
+  width: 12px;
+  height: 12px;
+  background: var(--blue);
+  border-radius: 50%;
+  animation: bounce 0.6s infinite alternate;
+}
+.loader div:nth-child(2) { animation-delay: 0.2s; }
+.loader div:nth-child(3) { animation-delay: 0.4s; }
+
+@keyframes bounce {
+  from { transform: translateY(0); opacity: 0.7; }
+  to { transform: translateY(-10px); opacity: 1; }
+}
+
+/* ---------- ALERTS ---------- */
+#alerts {
+  margin-top: 30px;
+}
+.alert-block {
+  background: rgba(255, 255, 255, 0.08);
+  border-left: 4px solid var(--blue);
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.25);
+}
+.alert-title {
+  background: #000;
+  color: #060606;
+  font-weight: 800;
+  text-align: center;
+  border-radius: 8px;
+  padding: 8px;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+.alert-block p {
+  margin: 8px 0;
+}
+.alert-block hr {
+  border: 0.5px solid rgba(255,255,255,0.2);
+  margin: 10px 0;
+}
+.alert-block a {
+  color: var(--green);
+  text-decoration: none;
+  font-weight: 600;
+}
+.alert-block a:hover {
+  color: var(--blue);
+  text-shadow: 0 0 6px var(--blue);
+}
+iframe {
+  width: 100%;
+  height: 220px;
+  border-radius: 10px;
+  margin-top: 10px;
+  border: 1px solid rgba(255,255,255,0.2);
+}
+
+/* ---------- FOOTER ---------- */
+.footer {
+  margin-top: auto;
+  text-align: center;
+  color: #bbb;
+  font-size: 0.9em;
+  padding: 20px 0;
+}
+.footer .emojis { font-size: 1.3em; margin-bottom: 5px; }
+
+@media (max-width: 480px) {
+  .container { padding: 25px 20px; }
+  button { font-size: 1em; }
+  .header { flex-direction: column; gap: 8px; }
+}
+</style>
+</head>
+
+<body>
+  <div class="header">
+    <span>🚨 WeCare Emergency</span>
+    <div class="nav-buttons">
+      <button class="logout-btn" onclick="logout()">Logout</button>
+    </div>
+  </div>
+
+  <div class="container">
+    <h2>Emergency Panic Button 🚨</h2>
+    <textarea id="message" placeholder="Describe your emergency..."></textarea>
+    
+    <div class="btn-group">
+      <button class="send" id="sendBtn" onclick="sendMessage()">🚨 Send Alert</button>
+      <button class="mic" onclick="startMic()">🎙️ Speak</button>
+    </div>
+
+    <div class="loader" id="loader">
+      <div></div><div></div><div></div>
+    </div>
+
+    <div id="alerts"></div>
+  </div>
+
+  <div class="footer">
+    <div class="emojis">🆘 🛡️ 📞</div>
+    &copy; 2025 Created by <b>Ronak</b>, <b>Pushkar</b>, and <b>Nitin</b>
+  </div>
+
+<script>
+function goBack() {
+  window.history.back();
+}
+
+async function sendMessage(msgText) {
+  const message = msgText || document.getElementById("message").value.trim();
+  if (!message) return alert("Enter a message first!");
+  
+  const loader = document.getElementById("loader");
+  const sendBtn = document.getElementById("sendBtn");
+  loader.style.display = "flex";
+  sendBtn.innerText = "🚨 Sending...";
+  sendBtn.disabled = true;
+
+  if (!navigator.geolocation) return alert("Geolocation not supported.");
+
+  navigator.geolocation.getCurrentPosition(async pos => {
+    try {
+      const res = await fetch("/panic", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          message,
+          lat: pos.coords.latitude,
+          lon: pos.coords.longitude
+        })
+      });
+
+      const data = await res.json();
+      const alertsDiv = document.getElementById("alerts");
+      alertsDiv.innerHTML = "";
+      loader.style.display = "none";
+      sendBtn.innerText = "🚨 Send Alert";
+      sendBtn.disabled = false;
+
+      if (data.alerts && data.alerts.length > 0) {
+        data.alerts.forEach(alert => {
+          const block = document.createElement("div");
+          block.classList.add("alert-block");
+
+          const responderMap = alert.responder_lat && alert.responder_lon ? `
+            <iframe src="https://www.google.com/maps?q=${alert.responder_lat},${alert.responder_lon}&output=embed" loading="lazy"></iframe>` : "";
+
+          const locationLinks = `
+            <p>
+              <a href="${alert.user_map_link}" target="_blank">📍 My Location</a>
+              ${alert.responder_map_link ? ` | <a href="${alert.responder_map_link}" target="_blank">🗺️ Responder Location</a>` : ""}
+            </p>`;
+
+          block.innerHTML = `
+            <div class="alert-title">🚨 EMERGENCY ALERT</div>
+            <p><b>ID:</b> #${alert.incident_id}</p>
+            <p><b>Time:</b> ${alert.timestamp}</p>
+            <p><b>Reporter:</b> ${alert.reporter_name}</p>
+            <hr>
+            <p><b>Category:</b> ${alert.category.toUpperCase()} (${alert.subcategory.toUpperCase()})</p>
+            <p><b>Description:</b> ${alert.description}</p>
+            <p><b>Precaution:</b> ${alert.precaution}</p>
+            <p><b>Responder:</b> ${alert.responder_name} - ${alert.responder_address}</p>
+            ${locationLinks}
+            ${responderMap}
+          `;
+          alertsDiv.appendChild(block);
+        });
+      } else {
+        alertsDiv.innerHTML = `<p>${data.message || "No alerts generated."}</p>`;
+      }
+    } catch (err) {
+      loader.style.display = "none";
+      sendBtn.innerText = "🚨 Send Alert";
+      sendBtn.disabled = false;
+      alert("Error sending alert: " + err.message);
+    }
+  });
+}
+
+function startMic() {
+  if (!('webkitSpeechRecognition' in window)) return alert("Speech recognition not supported.");
+  const recognition = new webkitSpeechRecognition();
+  recognition.lang = "en-US";
+  recognition.interimResults = false;
+  recognition.maxAlternatives = 1;
+  recognition.onresult = (e) => {
+    const speech = e.results[0][0].transcript;
+    const textarea = document.getElementById("message");
+    textarea.value = speech;
+    textarea.style.fontWeight = "bold";
+    textarea.style.fontSize = "1.2em";
+    sendMessage(speech);
+  };
+  recognition.onerror = (e) => alert("Mic error: " + e.error);
+  recognition.start();
+}
+
+function logout() {
+  if (confirm("Are you sure you want to log out?")) {
+    fetch("/logout", { method: "GET" })
+      .then(() => window.location.href = "/")
+      .catch(() => alert("Logout failed"));
+  }
+}
+</script>
+</body>
+</html>
