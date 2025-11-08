@@ -1,0 +1,1001 @@
+text,categories,subcategory
+short circuit fire near school,['fire'],critical
+safety drill conducted at market,['non-emergency'],normal
+everything is fine at market,['non-emergency'],normal
+everything is fine at factory,['non-emergency'],normal
+car stolen from residential area,['police'],normal
+need ambulance for burns,['health'],critical
+gunshots heard near school,['police'],normal
+robbery reported at office,['police'],critical
+flames spreading rapidly in office,['fire'],normal
+burglary attempt at residential area,['police'],normal
+explosion heard at office,['fire'],normal
+"severe severe headache, need medical help",['health'],normal
+fight broke out near factory,['police'],critical
+gunshots heard near station,['police'],critical
+"severe breathing difficulty, need medical help",['health'],critical
+short circuit fire near station,['fire'],critical
+"station is burning, people trapped inside",['fire'],critical
+false alarm triggered in office,['non-emergency'],normal
+safety drill conducted at warehouse,['non-emergency'],normal
+false alarm triggered in school,['non-emergency'],normal
+car stolen from market,['police'],critical
+smoke coming from the warehouse,['fire'],normal
+individual suffering from severe headache,['health'],critical
+gunshots heard near residential area,['police'],critical
+"severe severe headache, need medical help",['health'],critical
+false alarm triggered in office,['non-emergency'],normal
+training exercise completed successfully,['non-emergency'],normal
+patient is fainted and not responding,['health'],normal
+gunshots heard near warehouse,['police'],critical
+gunshots heard near factory,['police'],critical
+suspect with gun seen in warehouse,['police'],normal
+flames spreading rapidly in office,['fire'],critical
+training exercise completed successfully,['non-emergency'],normal
+routine maintenance ongoing,['non-emergency'],normal
+explosion heard at school,['fire'],critical
+burglary attempt at office,['police'],critical
+routine maintenance ongoing,['non-emergency'],normal
+no issues reported in school,['non-emergency'],normal
+individual suffering from severe headache,['health'],normal
+person collapsed after accident,['health'],critical
+no issues reported in station,['non-emergency'],normal
+no issues reported in warehouse,['non-emergency'],normal
+gunshots heard near market,['police'],critical
+training exercise completed successfully,['non-emergency'],normal
+patient is injured and not responding,['health'],normal
+everything is fine at factory,['non-emergency'],normal
+short circuit fire near office,['fire'],normal
+need ambulance for severe headache,['health'],critical
+everything is fine at office,['non-emergency'],normal
+"severe chest pain, need medical help",['health'],critical
+person fainted after accident,['health'],critical
+suspect with crowbar seen in office,['police'],normal
+"severe breathing difficulty, need medical help",['health'],critical
+gunshots heard near school,['police'],critical
+need ambulance for chest pain,['health'],critical
+safety drill conducted at market,['non-emergency'],normal
+individual suffering from severe headache,['health'],critical
+no issues reported in station,['non-emergency'],normal
+burglary attempt at station,['police'],critical
+suspect with crowbar seen in residential area,['police'],normal
+robbery reported at residential area,['police'],critical
+explosion heard at school,['fire'],critical
+"market is burning, people trapped inside",['fire'],normal
+training exercise completed successfully,['non-emergency'],normal
+patient is bleeding and not responding,['health'],normal
+everything is fine at office,['non-emergency'],normal
+smoke coming from the residential area,['fire'],normal
+training exercise completed successfully,['non-emergency'],normal
+fight broke out near factory,['police'],critical
+car stolen from residential area,['police'],critical
+false alarm triggered in school,['non-emergency'],normal
+fight broke out near warehouse,['police'],critical
+false alarm triggered in station,['non-emergency'],normal
+car stolen from residential area,['police'],critical
+everything is fine at warehouse,['non-emergency'],normal
+no issues reported in school,['non-emergency'],normal
+suspect with bat seen in factory,['police'],critical
+"factory is burning, people trapped inside",['fire'],critical
+"warehouse is burning, people trapped inside",['fire'],critical
+suspect with knife seen in market,['police'],normal
+flames spreading rapidly in warehouse,['fire'],critical
+suspect with bat seen in office,['police'],critical
+burglary attempt at station,['police'],normal
+no issues reported in warehouse,['non-emergency'],normal
+explosion heard at station,['fire'],normal
+gunshots heard near factory,['police'],critical
+burglary attempt at residential area,['police'],critical
+short circuit fire near market,['fire'],critical
+false alarm triggered in school,['non-emergency'],normal
+routine maintenance ongoing,['non-emergency'],normal
+"severe severe headache, need medical help",['health'],critical
+robbery reported at residential area,['police'],normal
+"school is burning, people trapped inside",['fire'],normal
+car stolen from school,['police'],critical
+patient is injured and not responding,['health'],normal
+person unconscious after accident,['health'],critical
+short circuit fire near factory,['fire'],critical
+suspect with crowbar seen in market,['police'],normal
+fire in the market,['fire'],normal
+smoke coming from the factory,['fire'],normal
+gunshots heard near school,['police'],critical
+routine maintenance ongoing,['non-emergency'],normal
+everything is fine at factory,['non-emergency'],normal
+person injured after accident,['health'],critical
+explosion heard at warehouse,['fire'],normal
+"severe burns, need medical help",['health'],critical
+routine maintenance ongoing,['non-emergency'],normal
+routine maintenance ongoing,['non-emergency'],normal
+safety drill conducted at residential area,['non-emergency'],normal
+explosion heard at office,['fire'],critical
+everything is fine at station,['non-emergency'],normal
+explosion heard at warehouse,['fire'],critical
+routine maintenance ongoing,['non-emergency'],normal
+"residential area is burning, people trapped inside",['fire'],critical
+training exercise completed successfully,['non-emergency'],normal
+robbery reported at residential area,['police'],critical
+breathing difficulty and heavy bleeding at scene,['health'],critical
+no issues reported in residential area,['non-emergency'],normal
+no issues reported in school,['non-emergency'],normal
+"market is burning, people trapped inside",['fire'],critical
+burglary attempt at school,['police'],normal
+car stolen from station,['police'],normal
+need ambulance for burns,['health'],critical
+need ambulance for severe headache,['health'],critical
+burglary attempt at market,['police'],normal
+robbery reported at station,['police'],normal
+"severe burns, need medical help",['health'],normal
+burglary attempt at office,['police'],normal
+patient is bleeding and not responding,['health'],normal
+flames spreading rapidly in residential area,['fire'],normal
+fight broke out near factory,['police'],normal
+suspect with crowbar seen in factory,['police'],critical
+individual suffering from burns,['health'],normal
+training exercise completed successfully,['non-emergency'],normal
+"severe burns, need medical help",['health'],critical
+breathing difficulty and heavy bleeding at scene,['health'],normal
+car stolen from school,['police'],normal
+training exercise completed successfully,['non-emergency'],normal
+robbery reported at factory,['police'],critical
+explosion heard at market,['fire'],normal
+false alarm triggered in market,['non-emergency'],normal
+robbery reported at factory,['police'],critical
+explosion heard at school,['fire'],normal
+car stolen from warehouse,['police'],critical
+robbery reported at school,['police'],critical
+flames spreading rapidly in school,['fire'],normal
+training exercise completed successfully,['non-emergency'],normal
+training exercise completed successfully,['non-emergency'],normal
+training exercise completed successfully,['non-emergency'],normal
+suspect with bat seen in factory,['police'],normal
+gunshots heard near warehouse,['police'],normal
+car stolen from market,['police'],critical
+gunshots heard near school,['police'],critical
+"severe burns, need medical help",['health'],normal
+patient is bleeding and not responding,['health'],normal
+safety drill conducted at station,['non-emergency'],normal
+person collapsed after accident,['health'],critical
+routine maintenance ongoing,['non-emergency'],normal
+robbery reported at office,['police'],normal
+individual suffering from fever,['health'],critical
+flames spreading rapidly in warehouse,['fire'],critical
+patient is unconscious and not responding,['health'],normal
+safety drill conducted at factory,['non-emergency'],normal
+short circuit fire near market,['fire'],normal
+need ambulance for severe headache,['health'],critical
+routine maintenance ongoing,['non-emergency'],normal
+individual suffering from chest pain,['health'],critical
+flames spreading rapidly in office,['fire'],critical
+suspect with knife seen in station,['police'],critical
+robbery reported at station,['police'],critical
+everything is fine at residential area,['non-emergency'],normal
+everything is fine at station,['non-emergency'],normal
+individual suffering from severe headache,['health'],critical
+gunshots heard near market,['police'],critical
+fight broke out near school,['police'],critical
+smoke coming from the market,['fire'],critical
+everything is fine at station,['non-emergency'],normal
+suspect with bat seen in warehouse,['police'],normal
+flames spreading rapidly in residential area,['fire'],normal
+individual suffering from fever,['health'],critical
+explosion heard at station,['fire'],critical
+short circuit fire near market,['fire'],normal
+fire in the warehouse,['fire'],normal
+no issues reported in station,['non-emergency'],normal
+"severe severe headache, need medical help",['health'],critical
+person fainted after accident,['health'],critical
+routine maintenance ongoing,['non-emergency'],normal
+gunshots heard near market,['police'],critical
+need ambulance for burns,['health'],normal
+fire in the office,['fire'],critical
+burglary attempt at warehouse,['police'],critical
+robbery reported at station,['police'],critical
+suspect with knife seen in station,['police'],critical
+person unconscious after accident,['health'],normal
+"office is burning, people trapped inside",['fire'],critical
+burglary attempt at office,['police'],critical
+suspect with gun seen in factory,['police'],normal
+chest pain and heavy bleeding at scene,['health'],critical
+flames spreading rapidly in warehouse,['fire'],critical
+patient is bleeding and not responding,['health'],critical
+patient is collapsed and not responding,['health'],normal
+smoke coming from the school,['fire'],critical
+safety drill conducted at office,['non-emergency'],normal
+individual suffering from fever,['health'],critical
+everything is fine at market,['non-emergency'],normal
+fight broke out near station,['police'],critical
+fight broke out near factory,['police'],critical
+false alarm triggered in market,['non-emergency'],normal
+safety drill conducted at warehouse,['non-emergency'],normal
+routine maintenance ongoing,['non-emergency'],normal
+no issues reported in factory,['non-emergency'],normal
+explosion heard at residential area,['fire'],critical
+"severe breathing difficulty, need medical help",['health'],critical
+"warehouse is burning, people trapped inside",['fire'],normal
+everything is fine at school,['non-emergency'],normal
+gunshots heard near station,['police'],normal
+fight broke out near warehouse,['police'],normal
+burglary attempt at warehouse,['police'],critical
+person injured after accident,['health'],critical
+robbery reported at market,['police'],critical
+fire in the market,['fire'],critical
+"severe fever, need medical help",['health'],normal
+short circuit fire near warehouse,['fire'],normal
+need ambulance for chest pain,['health'],critical
+short circuit fire near station,['fire'],normal
+individual suffering from breathing difficulty,['health'],critical
+everything is fine at station,['non-emergency'],normal
+robbery reported at office,['police'],critical
+need ambulance for chest pain,['health'],normal
+fever and heavy bleeding at scene,['health'],normal
+burglary attempt at market,['police'],normal
+patient is collapsed and not responding,['health'],critical
+individual suffering from breathing difficulty,['health'],normal
+burglary attempt at warehouse,['police'],critical
+training exercise completed successfully,['non-emergency'],normal
+suspect with bat seen in factory,['police'],normal
+individual suffering from chest pain,['health'],critical
+routine maintenance ongoing,['non-emergency'],normal
+flames spreading rapidly in market,['fire'],critical
+car stolen from factory,['police'],critical
+suspect with knife seen in factory,['police'],critical
+person collapsed after accident,['health'],critical
+burglary attempt at residential area,['police'],critical
+need ambulance for chest pain,['health'],critical
+individual suffering from burns,['health'],normal
+false alarm triggered in market,['non-emergency'],normal
+burglary attempt at warehouse,['police'],critical
+training exercise completed successfully,['non-emergency'],normal
+everything is fine at factory,['non-emergency'],normal
+"market is burning, people trapped inside",['fire'],critical
+training exercise completed successfully,['non-emergency'],normal
+false alarm triggered in factory,['non-emergency'],normal
+gunshots heard near market,['police'],critical
+chest pain and heavy bleeding at scene,['health'],critical
+person fainted after accident,['health'],normal
+burglary attempt at factory,['police'],critical
+fight broke out near office,['police'],normal
+robbery reported at factory,['police'],normal
+car stolen from school,['police'],normal
+robbery reported at factory,['police'],normal
+suspect with knife seen in factory,['police'],normal
+no issues reported in market,['non-emergency'],normal
+person unconscious after accident,['health'],critical
+training exercise completed successfully,['non-emergency'],normal
+burglary attempt at residential area,['police'],critical
+training exercise completed successfully,['non-emergency'],normal
+training exercise completed successfully,['non-emergency'],normal
+flames spreading rapidly in office,['fire'],normal
+fire in the office,['fire'],normal
+person injured after accident,['health'],normal
+person injured after accident,['health'],critical
+short circuit fire near residential area,['fire'],critical
+explosion heard at station,['fire'],critical
+robbery reported at factory,['police'],critical
+everything is fine at warehouse,['non-emergency'],normal
+fire in the warehouse,['fire'],critical
+patient is fainted and not responding,['health'],critical
+short circuit fire near warehouse,['fire'],critical
+short circuit fire near school,['fire'],normal
+false alarm triggered in school,['non-emergency'],normal
+flames spreading rapidly in office,['fire'],critical
+"severe burns, need medical help",['health'],normal
+short circuit fire near market,['fire'],critical
+need ambulance for fever,['health'],normal
+burglary attempt at residential area,['police'],normal
+explosion heard at market,['fire'],critical
+suspect with bat seen in factory,['police'],critical
+fire in the school,['fire'],normal
+individual suffering from chest pain,['health'],normal
+individual suffering from severe headache,['health'],critical
+chest pain and heavy bleeding at scene,['health'],critical
+patient is unconscious and not responding,['health'],normal
+individual suffering from breathing difficulty,['health'],critical
+smoke coming from the market,['fire'],critical
+patient is collapsed and not responding,['health'],normal
+everything is fine at market,['non-emergency'],normal
+fight broke out near factory,['police'],normal
+routine maintenance ongoing,['non-emergency'],normal
+robbery reported at factory,['police'],critical
+short circuit fire near market,['fire'],normal
+individual suffering from chest pain,['health'],normal
+false alarm triggered in station,['non-emergency'],normal
+fever and heavy bleeding at scene,['health'],critical
+person collapsed after accident,['health'],normal
+no issues reported in residential area,['non-emergency'],normal
+short circuit fire near warehouse,['fire'],normal
+"market is burning, people trapped inside",['fire'],normal
+person collapsed after accident,['health'],normal
+patient is unconscious and not responding,['health'],critical
+no issues reported in warehouse,['non-emergency'],normal
+burglary attempt at warehouse,['police'],normal
+person bleeding after accident,['health'],normal
+everything is fine at residential area,['non-emergency'],normal
+routine maintenance ongoing,['non-emergency'],normal
+no issues reported in residential area,['non-emergency'],normal
+robbery reported at market,['police'],critical
+false alarm triggered in market,['non-emergency'],normal
+individual suffering from severe headache,['health'],critical
+burglary attempt at warehouse,['police'],normal
+routine maintenance ongoing,['non-emergency'],normal
+fire in the factory,['fire'],normal
+gunshots heard near warehouse,['police'],critical
+explosion heard at market,['fire'],critical
+no issues reported in office,['non-emergency'],normal
+patient is fainted and not responding,['health'],normal
+everything is fine at market,['non-emergency'],normal
+individual suffering from chest pain,['health'],normal
+fight broke out near factory,['police'],critical
+flames spreading rapidly in station,['fire'],normal
+robbery reported at factory,['police'],critical
+safety drill conducted at school,['non-emergency'],normal
+patient is bleeding and not responding,['health'],critical
+safety drill conducted at warehouse,['non-emergency'],normal
+individual suffering from breathing difficulty,['health'],normal
+training exercise completed successfully,['non-emergency'],normal
+smoke coming from the market,['fire'],critical
+individual suffering from severe headache,['health'],critical
+patient is collapsed and not responding,['health'],normal
+fire in the station,['fire'],normal
+training exercise completed successfully,['non-emergency'],normal
+burglary attempt at school,['police'],critical
+fight broke out near school,['police'],critical
+gunshots heard near school,['police'],critical
+robbery reported at warehouse,['police'],critical
+no issues reported in station,['non-emergency'],normal
+routine maintenance ongoing,['non-emergency'],normal
+robbery reported at station,['police'],critical
+"severe breathing difficulty, need medical help",['health'],critical
+breathing difficulty and heavy bleeding at scene,['health'],normal
+"severe severe headache, need medical help",['health'],critical
+false alarm triggered in market,['non-emergency'],normal
+short circuit fire near factory,['fire'],normal
+short circuit fire near factory,['fire'],critical
+individual suffering from breathing difficulty,['health'],critical
+routine maintenance ongoing,['non-emergency'],normal
+flames spreading rapidly in factory,['fire'],normal
+false alarm triggered in station,['non-emergency'],normal
+training exercise completed successfully,['non-emergency'],normal
+burglary attempt at office,['police'],normal
+fight broke out near station,['police'],normal
+car stolen from market,['police'],normal
+smoke coming from the station,['fire'],critical
+false alarm triggered in warehouse,['non-emergency'],normal
+burglary attempt at factory,['police'],critical
+burglary attempt at warehouse,['police'],normal
+explosion heard at office,['fire'],critical
+"severe breathing difficulty, need medical help",['health'],critical
+smoke coming from the school,['fire'],normal
+false alarm triggered in factory,['non-emergency'],normal
+explosion heard at school,['fire'],critical
+gunshots heard near warehouse,['police'],critical
+routine maintenance ongoing,['non-emergency'],normal
+no issues reported in school,['non-emergency'],normal
+suspect with bat seen in residential area,['police'],critical
+"school is burning, people trapped inside",['fire'],critical
+training exercise completed successfully,['non-emergency'],normal
+no issues reported in warehouse,['non-emergency'],normal
+no issues reported in market,['non-emergency'],normal
+training exercise completed successfully,['non-emergency'],normal
+burglary attempt at office,['police'],critical
+patient is unconscious and not responding,['health'],critical
+flames spreading rapidly in school,['fire'],normal
+gunshots heard near residential area,['police'],critical
+routine maintenance ongoing,['non-emergency'],normal
+flames spreading rapidly in residential area,['fire'],critical
+patient is unconscious and not responding,['health'],critical
+short circuit fire near residential area,['fire'],critical
+burglary attempt at factory,['police'],critical
+training exercise completed successfully,['non-emergency'],normal
+gunshots heard near station,['police'],normal
+fire in the school,['fire'],critical
+car stolen from residential area,['police'],critical
+suspect with gun seen in office,['police'],critical
+gunshots heard near warehouse,['police'],critical
+no issues reported in office,['non-emergency'],normal
+routine maintenance ongoing,['non-emergency'],normal
+short circuit fire near station,['fire'],critical
+"severe severe headache, need medical help",['health'],normal
+smoke coming from the residential area,['fire'],critical
+suspect with crowbar seen in office,['police'],critical
+robbery reported at office,['police'],normal
+flames spreading rapidly in station,['fire'],critical
+routine maintenance ongoing,['non-emergency'],normal
+patient is collapsed and not responding,['health'],critical
+need ambulance for breathing difficulty,['health'],critical
+breathing difficulty and heavy bleeding at scene,['health'],critical
+individual suffering from fever,['health'],critical
+fight broke out near office,['police'],critical
+false alarm triggered in market,['non-emergency'],normal
+robbery reported at residential area,['police'],normal
+explosion heard at office,['fire'],normal
+fight broke out near factory,['police'],critical
+fight broke out near factory,['police'],critical
+person bleeding after accident,['health'],normal
+everything is fine at warehouse,['non-emergency'],normal
+person collapsed after accident,['health'],critical
+no issues reported in station,['non-emergency'],normal
+short circuit fire near residential area,['fire'],critical
+need ambulance for breathing difficulty,['health'],normal
+"severe burns, need medical help",['health'],normal
+"severe severe headache, need medical help",['health'],critical
+patient is collapsed and not responding,['health'],normal
+false alarm triggered in school,['non-emergency'],normal
+person collapsed after accident,['health'],critical
+training exercise completed successfully,['non-emergency'],normal
+severe headache and heavy bleeding at scene,['health'],critical
+no issues reported in factory,['non-emergency'],normal
+need ambulance for burns,['health'],critical
+routine maintenance ongoing,['non-emergency'],normal
+everything is fine at factory,['non-emergency'],normal
+patient is injured and not responding,['health'],normal
+car stolen from residential area,['police'],normal
+suspect with gun seen in residential area,['police'],normal
+gunshots heard near office,['police'],critical
+gunshots heard near factory,['police'],normal
+"school is burning, people trapped inside",['fire'],critical
+safety drill conducted at residential area,['non-emergency'],normal
+severe headache and heavy bleeding at scene,['health'],critical
+patient is collapsed and not responding,['health'],normal
+fire in the warehouse,['fire'],critical
+"market is burning, people trapped inside",['fire'],normal
+person bleeding after accident,['health'],critical
+person collapsed after accident,['health'],normal
+gunshots heard near warehouse,['police'],normal
+"market is burning, people trapped inside",['fire'],critical
+suspect with bat seen in school,['police'],critical
+routine maintenance ongoing,['non-emergency'],normal
+severe headache and heavy bleeding at scene,['health'],normal
+person unconscious after accident,['health'],critical
+training exercise completed successfully,['non-emergency'],normal
+no issues reported in residential area,['non-emergency'],normal
+short circuit fire near office,['fire'],critical
+suspect with gun seen in factory,['police'],normal
+fire in the residential area,['fire'],critical
+robbery reported at warehouse,['police'],critical
+"school is burning, people trapped inside",['fire'],critical
+gunshots heard near market,['police'],critical
+no issues reported in office,['non-emergency'],normal
+fire in the residential area,['fire'],critical
+false alarm triggered in school,['non-emergency'],normal
+individual suffering from burns,['health'],normal
+flames spreading rapidly in market,['fire'],critical
+flames spreading rapidly in residential area,['fire'],critical
+gunshots heard near residential area,['police'],critical
+routine maintenance ongoing,['non-emergency'],normal
+everything is fine at residential area,['non-emergency'],normal
+fire in the factory,['fire'],normal
+individual suffering from burns,['health'],normal
+safety drill conducted at market,['non-emergency'],normal
+safety drill conducted at market,['non-emergency'],normal
+explosion heard at office,['fire'],critical
+gunshots heard near market,['police'],normal
+"station is burning, people trapped inside",['fire'],normal
+flames spreading rapidly in office,['fire'],critical
+fever and heavy bleeding at scene,['health'],critical
+fight broke out near factory,['police'],normal
+routine maintenance ongoing,['non-emergency'],normal
+training exercise completed successfully,['non-emergency'],normal
+need ambulance for breathing difficulty,['health'],critical
+fight broke out near school,['police'],normal
+suspect with bat seen in market,['police'],critical
+gunshots heard near station,['police'],critical
+smoke coming from the factory,['fire'],critical
+need ambulance for burns,['health'],normal
+routine maintenance ongoing,['non-emergency'],normal
+fight broke out near school,['police'],critical
+robbery reported at residential area,['police'],normal
+breathing difficulty and heavy bleeding at scene,['health'],critical
+chest pain and heavy bleeding at scene,['health'],normal
+safety drill conducted at station,['non-emergency'],normal
+fire in the warehouse,['fire'],critical
+safety drill conducted at market,['non-emergency'],normal
+fire in the market,['fire'],normal
+training exercise completed successfully,['non-emergency'],normal
+car stolen from station,['police'],normal
+no issues reported in factory,['non-emergency'],normal
+everything is fine at station,['non-emergency'],normal
+everything is fine at office,['non-emergency'],normal
+gunshots heard near station,['police'],normal
+burglary attempt at warehouse,['police'],critical
+individual suffering from chest pain,['health'],critical
+false alarm triggered in warehouse,['non-emergency'],normal
+suspect with crowbar seen in market,['police'],critical
+"severe breathing difficulty, need medical help",['health'],critical
+individual suffering from breathing difficulty,['health'],normal
+suspect with crowbar seen in factory,['police'],critical
+"severe chest pain, need medical help",['health'],normal
+patient is injured and not responding,['health'],normal
+training exercise completed successfully,['non-emergency'],normal
+burns and heavy bleeding at scene,['health'],normal
+no issues reported in school,['non-emergency'],normal
+gunshots heard near office,['police'],critical
+fight broke out near factory,['police'],critical
+burglary attempt at station,['police'],critical
+flames spreading rapidly in warehouse,['fire'],critical
+fire in the station,['fire'],critical
+false alarm triggered in school,['non-emergency'],normal
+everything is fine at school,['non-emergency'],normal
+"severe burns, need medical help",['health'],normal
+explosion heard at warehouse,['fire'],normal
+"severe chest pain, need medical help",['health'],critical
+no issues reported in station,['non-emergency'],normal
+everything is fine at residential area,['non-emergency'],normal
+"severe chest pain, need medical help",['health'],critical
+flames spreading rapidly in residential area,['fire'],normal
+suspect with gun seen in market,['police'],critical
+"school is burning, people trapped inside",['fire'],critical
+individual suffering from fever,['health'],critical
+gunshots heard near factory,['police'],critical
+patient is fainted and not responding,['health'],critical
+false alarm triggered in factory,['non-emergency'],normal
+gunshots heard near office,['police'],normal
+routine maintenance ongoing,['non-emergency'],normal
+chest pain and heavy bleeding at scene,['health'],critical
+flames spreading rapidly in market,['fire'],normal
+robbery reported at market,['police'],normal
+explosion heard at office,['fire'],critical
+patient is unconscious and not responding,['health'],critical
+smoke coming from the warehouse,['fire'],critical
+person unconscious after accident,['health'],critical
+smoke coming from the warehouse,['fire'],normal
+gunshots heard near school,['police'],critical
+"school is burning, people trapped inside",['fire'],critical
+need ambulance for fever,['health'],normal
+explosion heard at station,['fire'],critical
+individual suffering from fever,['health'],normal
+safety drill conducted at factory,['non-emergency'],normal
+explosion heard at market,['fire'],critical
+robbery reported at residential area,['police'],critical
+fight broke out near warehouse,['police'],critical
+everything is fine at residential area,['non-emergency'],normal
+fight broke out near market,['police'],critical
+false alarm triggered in station,['non-emergency'],normal
+explosion heard at station,['fire'],critical
+burglary attempt at residential area,['police'],critical
+patient is collapsed and not responding,['health'],normal
+no issues reported in office,['non-emergency'],normal
+individual suffering from fever,['health'],normal
+"severe breathing difficulty, need medical help",['health'],critical
+smoke coming from the residential area,['fire'],normal
+no issues reported in warehouse,['non-emergency'],normal
+"severe fever, need medical help",['health'],critical
+fire in the station,['fire'],critical
+severe headache and heavy bleeding at scene,['health'],critical
+person bleeding after accident,['health'],normal
+smoke coming from the office,['fire'],critical
+patient is bleeding and not responding,['health'],critical
+smoke coming from the factory,['fire'],critical
+"severe fever, need medical help",['health'],normal
+burglary attempt at warehouse,['police'],critical
+robbery reported at school,['police'],critical
+burglary attempt at warehouse,['police'],critical
+smoke coming from the market,['fire'],normal
+training exercise completed successfully,['non-emergency'],normal
+routine maintenance ongoing,['non-emergency'],normal
+car stolen from station,['police'],critical
+explosion heard at factory,['fire'],normal
+suspect with crowbar seen in station,['police'],critical
+fight broke out near school,['police'],critical
+gunshots heard near factory,['police'],critical
+everything is fine at warehouse,['non-emergency'],normal
+routine maintenance ongoing,['non-emergency'],normal
+patient is collapsed and not responding,['health'],normal
+patient is bleeding and not responding,['health'],normal
+everything is fine at warehouse,['non-emergency'],normal
+burglary attempt at office,['police'],normal
+short circuit fire near office,['fire'],critical
+patient is bleeding and not responding,['health'],normal
+fire in the market,['fire'],normal
+burglary attempt at school,['police'],critical
+individual suffering from burns,['health'],critical
+short circuit fire near market,['fire'],critical
+short circuit fire near office,['fire'],normal
+gunshots heard near warehouse,['police'],normal
+explosion heard at market,['fire'],normal
+person collapsed after accident,['health'],critical
+need ambulance for burns,['health'],normal
+fire in the office,['fire'],critical
+"severe breathing difficulty, need medical help",['health'],critical
+suspect with bat seen in warehouse,['police'],normal
+car stolen from school,['police'],normal
+safety drill conducted at office,['non-emergency'],normal
+individual suffering from chest pain,['health'],normal
+need ambulance for fever,['health'],critical
+everything is fine at residential area,['non-emergency'],normal
+no issues reported in station,['non-emergency'],normal
+"factory is burning, people trapped inside",['fire'],normal
+flames spreading rapidly in warehouse,['fire'],critical
+robbery reported at market,['police'],critical
+fight broke out near office,['police'],normal
+flames spreading rapidly in residential area,['fire'],normal
+safety drill conducted at warehouse,['non-emergency'],normal
+burns and heavy bleeding at scene,['health'],critical
+"severe fever, need medical help",['health'],normal
+patient is unconscious and not responding,['health'],normal
+explosion heard at warehouse,['fire'],critical
+individual suffering from burns,['health'],normal
+fight broke out near warehouse,['police'],critical
+suspect with knife seen in office,['police'],critical
+smoke coming from the school,['fire'],normal
+fight broke out near station,['police'],normal
+patient is collapsed and not responding,['health'],critical
+patient is collapsed and not responding,['health'],normal
+training exercise completed successfully,['non-emergency'],normal
+individual suffering from chest pain,['health'],critical
+burglary attempt at residential area,['police'],normal
+routine maintenance ongoing,['non-emergency'],normal
+breathing difficulty and heavy bleeding at scene,['health'],critical
+robbery reported at residential area,['police'],critical
+flames spreading rapidly in school,['fire'],normal
+need ambulance for severe headache,['health'],normal
+burglary attempt at residential area,['police'],normal
+gunshots heard near market,['police'],critical
+individual suffering from breathing difficulty,['health'],critical
+smoke coming from the station,['fire'],normal
+"severe severe headache, need medical help",['health'],critical
+safety drill conducted at warehouse,['non-emergency'],normal
+routine maintenance ongoing,['non-emergency'],normal
+patient is bleeding and not responding,['health'],critical
+burglary attempt at school,['police'],normal
+person bleeding after accident,['health'],critical
+severe headache and heavy bleeding at scene,['health'],critical
+short circuit fire near warehouse,['fire'],critical
+smoke coming from the warehouse,['fire'],critical
+no issues reported in factory,['non-emergency'],normal
+fight broke out near market,['police'],normal
+short circuit fire near school,['fire'],critical
+gunshots heard near warehouse,['police'],critical
+burns and heavy bleeding at scene,['health'],normal
+short circuit fire near station,['fire'],critical
+fire in the market,['fire'],critical
+false alarm triggered in residential area,['non-emergency'],normal
+short circuit fire near factory,['fire'],critical
+gunshots heard near factory,['police'],normal
+"severe severe headache, need medical help",['health'],normal
+burglary attempt at office,['police'],normal
+robbery reported at warehouse,['police'],critical
+short circuit fire near factory,['fire'],critical
+routine maintenance ongoing,['non-emergency'],normal
+fire in the station,['fire'],critical
+safety drill conducted at factory,['non-emergency'],normal
+robbery reported at warehouse,['police'],critical
+short circuit fire near office,['fire'],critical
+severe headache and heavy bleeding at scene,['health'],normal
+person injured after accident,['health'],critical
+routine maintenance ongoing,['non-emergency'],normal
+suspect with gun seen in office,['police'],normal
+gunshots heard near school,['police'],critical
+everything is fine at school,['non-emergency'],normal
+robbery reported at market,['police'],critical
+robbery reported at office,['police'],normal
+car stolen from residential area,['police'],critical
+explosion heard at school,['fire'],critical
+need ambulance for fever,['health'],critical
+fight broke out near office,['police'],normal
+flames spreading rapidly in station,['fire'],normal
+burglary attempt at office,['police'],normal
+"warehouse is burning, people trapped inside",['fire'],critical
+routine maintenance ongoing,['non-emergency'],normal
+fire in the station,['fire'],normal
+false alarm triggered in office,['non-emergency'],normal
+suspect with gun seen in residential area,['police'],normal
+person unconscious after accident,['health'],critical
+no issues reported in station,['non-emergency'],normal
+safety drill conducted at station,['non-emergency'],normal
+smoke coming from the market,['fire'],normal
+smoke coming from the station,['fire'],critical
+"office is burning, people trapped inside",['fire'],critical
+"office is burning, people trapped inside",['fire'],normal
+fire in the residential area,['fire'],critical
+burglary attempt at market,['police'],critical
+everything is fine at residential area,['non-emergency'],normal
+burglary attempt at school,['police'],normal
+robbery reported at office,['police'],critical
+false alarm triggered in school,['non-emergency'],normal
+no issues reported in residential area,['non-emergency'],normal
+short circuit fire near school,['fire'],critical
+explosion heard at warehouse,['fire'],normal
+"severe severe headache, need medical help",['health'],critical
+breathing difficulty and heavy bleeding at scene,['health'],normal
+everything is fine at factory,['non-emergency'],normal
+robbery reported at factory,['police'],normal
+"severe chest pain, need medical help",['health'],normal
+fire in the station,['fire'],normal
+training exercise completed successfully,['non-emergency'],normal
+no issues reported in market,['non-emergency'],normal
+individual suffering from chest pain,['health'],normal
+person collapsed after accident,['health'],critical
+flames spreading rapidly in school,['fire'],critical
+person unconscious after accident,['health'],critical
+suspect with gun seen in office,['police'],critical
+fight broke out near office,['police'],normal
+car stolen from office,['police'],critical
+training exercise completed successfully,['non-emergency'],normal
+"school is burning, people trapped inside",['fire'],critical
+robbery reported at residential area,['police'],normal
+gunshots heard near market,['police'],critical
+gunshots heard near residential area,['police'],critical
+robbery reported at factory,['police'],critical
+burns and heavy bleeding at scene,['health'],critical
+robbery reported at warehouse,['police'],normal
+"severe fever, need medical help",['health'],normal
+burglary attempt at station,['police'],critical
+false alarm triggered in warehouse,['non-emergency'],normal
+severe headache and heavy bleeding at scene,['health'],normal
+robbery reported at school,['police'],normal
+fight broke out near warehouse,['police'],critical
+false alarm triggered in office,['non-emergency'],normal
+robbery reported at station,['police'],critical
+"office is burning, people trapped inside",['fire'],critical
+explosion heard at school,['fire'],normal
+false alarm triggered in residential area,['non-emergency'],normal
+safety drill conducted at residential area,['non-emergency'],normal
+smoke coming from the office,['fire'],critical
+car stolen from school,['police'],critical
+explosion heard at factory,['fire'],normal
+routine maintenance ongoing,['non-emergency'],normal
+robbery reported at residential area,['police'],normal
+suspect with bat seen in factory,['police'],critical
+suspect with knife seen in office,['police'],normal
+safety drill conducted at office,['non-emergency'],normal
+routine maintenance ongoing,['non-emergency'],normal
+explosion heard at residential area,['fire'],critical
+everything is fine at warehouse,['non-emergency'],normal
+flames spreading rapidly in factory,['fire'],critical
+no issues reported in factory,['non-emergency'],normal
+flames spreading rapidly in office,['fire'],critical
+burns and heavy bleeding at scene,['health'],normal
+"office is burning, people trapped inside",['fire'],normal
+burglary attempt at office,['police'],normal
+short circuit fire near factory,['fire'],critical
+person fainted after accident,['health'],normal
+training exercise completed successfully,['non-emergency'],normal
+smoke coming from the residential area,['fire'],critical
+training exercise completed successfully,['non-emergency'],normal
+robbery reported at office,['police'],critical
+need ambulance for fever,['health'],normal
+fight broke out near office,['police'],critical
+fight broke out near station,['police'],critical
+need ambulance for burns,['health'],critical
+person unconscious after accident,['health'],normal
+burglary attempt at office,['police'],critical
+burglary attempt at market,['police'],normal
+"warehouse is burning, people trapped inside",['fire'],critical
+smoke coming from the factory,['fire'],normal
+individual suffering from fever,['health'],critical
+burns and heavy bleeding at scene,['health'],critical
+fight broke out near school,['police'],critical
+short circuit fire near residential area,['fire'],critical
+fight broke out near market,['police'],critical
+fight broke out near school,['police'],critical
+explosion heard at factory,['fire'],critical
+person fainted after accident,['health'],critical
+fever and heavy bleeding at scene,['health'],normal
+explosion heard at factory,['fire'],critical
+safety drill conducted at factory,['non-emergency'],normal
+robbery reported at market,['police'],normal
+robbery reported at school,['police'],critical
+fever and heavy bleeding at scene,['health'],normal
+training exercise completed successfully,['non-emergency'],normal
+"market is burning, people trapped inside",['fire'],normal
+"school is burning, people trapped inside",['fire'],critical
+fire in the station,['fire'],critical
+need ambulance for chest pain,['health'],critical
+routine maintenance ongoing,['non-emergency'],normal
+need ambulance for fever,['health'],normal
+short circuit fire near school,['fire'],normal
+burglary attempt at school,['police'],critical
+no issues reported in warehouse,['non-emergency'],normal
+training exercise completed successfully,['non-emergency'],normal
+car stolen from market,['police'],critical
+burns and heavy bleeding at scene,['health'],critical
+patient is fainted and not responding,['health'],critical
+fire in the residential area,['fire'],critical
+fight broke out near market,['police'],normal
+person unconscious after accident,['health'],normal
+need ambulance for severe headache,['health'],normal
+suspect with knife seen in residential area,['police'],critical
+false alarm triggered in warehouse,['non-emergency'],normal
+false alarm triggered in market,['non-emergency'],normal
+person bleeding after accident,['health'],critical
+fight broke out near warehouse,['police'],critical
+individual suffering from chest pain,['health'],normal
+flames spreading rapidly in market,['fire'],critical
+suspect with gun seen in market,['police'],critical
+everything is fine at residential area,['non-emergency'],normal
+smoke coming from the office,['fire'],critical
+"severe breathing difficulty, need medical help",['health'],critical
+routine maintenance ongoing,['non-emergency'],normal
+patient is fainted and not responding,['health'],critical
+car stolen from residential area,['police'],normal
+suspect with knife seen in market,['police'],critical
+fight broke out near school,['police'],normal
+fire in the station,['fire'],critical
+individual suffering from breathing difficulty,['health'],critical
+gunshots heard near school,['police'],critical
+burns and heavy bleeding at scene,['health'],critical
+fire in the school,['fire'],critical
+smoke coming from the station,['fire'],critical
+burns and heavy bleeding at scene,['health'],critical
+gunshots heard near residential area,['police'],normal
+flames spreading rapidly in factory,['fire'],critical
+"station is burning, people trapped inside",['fire'],normal
+suspect with crowbar seen in factory,['police'],critical
+safety drill conducted at warehouse,['non-emergency'],normal
+individual suffering from fever,['health'],normal
+burglary attempt at office,['police'],critical
+explosion heard at station,['fire'],normal
+gunshots heard near station,['police'],critical
+robbery reported at factory,['police'],normal
+need ambulance for severe headache,['health'],normal
+false alarm triggered in warehouse,['non-emergency'],normal
+smoke coming from the school,['fire'],critical
+robbery reported at residential area,['police'],critical
+fight broke out near station,['police'],critical
+fire in the factory,['fire'],normal
+smoke coming from the residential area,['fire'],normal
+"severe breathing difficulty, need medical help",['health'],critical
+false alarm triggered in residential area,['non-emergency'],normal
+burglary attempt at market,['police'],critical
+need ambulance for fever,['health'],critical
+short circuit fire near residential area,['fire'],normal
+"residential area is burning, people trapped inside",['fire'],critical
+routine maintenance ongoing,['non-emergency'],normal
+individual suffering from burns,['health'],normal
+robbery reported at residential area,['police'],critical
+suspect with knife seen in factory,['police'],critical
+gunshots heard near warehouse,['police'],critical
+flames spreading rapidly in factory,['fire'],critical
+fire in the residential area,['fire'],critical
+training exercise completed successfully,['non-emergency'],normal
+fight broke out near station,['police'],normal
+need ambulance for breathing difficulty,['health'],critical
+robbery reported at residential area,['police'],critical
+fire in the school,['fire'],critical
+short circuit fire near school,['fire'],critical
+burns and heavy bleeding at scene,['health'],normal
+suspect with knife seen in residential area,['police'],normal
+fight broke out near school,['police'],critical
+car stolen from school,['police'],critical
+explosion heard at office,['fire'],critical
+suspect with bat seen in office,['police'],normal
+explosion heard at school,['fire'],critical
+suspect with gun seen in warehouse,['police'],critical
+routine maintenance ongoing,['non-emergency'],normal
+burglary attempt at warehouse,['police'],critical
+individual suffering from fever,['health'],critical
+flames spreading rapidly in market,['fire'],normal
+smoke coming from the station,['fire'],normal
+fire in the factory,['fire'],critical
+false alarm triggered in factory,['non-emergency'],normal
+smoke coming from the warehouse,['fire'],critical
+fight broke out near school,['police'],critical
+false alarm triggered in market,['non-emergency'],normal
+safety drill conducted at market,['non-emergency'],normal
+smoke coming from the office,['fire'],normal
+fight broke out near school,['police'],normal
+individual suffering from severe headache,['health'],normal
+suspect with gun seen in residential area,['police'],critical
+burglary attempt at office,['police'],normal
+"factory is burning, people trapped inside",['fire'],critical
+short circuit fire near market,['fire'],normal
+car stolen from station,['police'],critical
+fight broke out near residential area,['police'],critical
+fight broke out near market,['police'],normal
+individual suffering from chest pain,['health'],critical
+fight broke out near office,['police'],critical
+individual suffering from fever,['health'],normal
+safety drill conducted at office,['non-emergency'],normal
+"severe burns, need medical help",['health'],normal
+robbery reported at warehouse,['police'],critical
+burns and heavy bleeding at scene,['health'],critical
+training exercise completed successfully,['non-emergency'],normal
+routine maintenance ongoing,['non-emergency'],normal
+safety drill conducted at residential area,['non-emergency'],normal
+explosion heard at school,['fire'],normal
+gunshots heard near office,['police'],normal
+flames spreading rapidly in office,['fire'],critical
+routine maintenance ongoing,['non-emergency'],normal
+false alarm triggered in warehouse,['non-emergency'],normal
+breathing difficulty and heavy bleeding at scene,['health'],normal
+gunshots heard near station,['police'],critical
+"station is burning, people trapped inside",['fire'],critical
+robbery reported at market,['police'],normal
+patient is injured and not responding,['health'],normal
+training exercise completed successfully,['non-emergency'],normal
+fire in the market,['fire'],critical
+false alarm triggered in market,['non-emergency'],normal
+suspect with bat seen in factory,['police'],normal
+"severe breathing difficulty, need medical help",['health'],normal
+safety drill conducted at factory,['non-emergency'],normal
+robbery reported at school,['police'],normal
+training exercise completed successfully,['non-emergency'],normal
+"severe burns, need medical help",['health'],normal
+no issues reported in warehouse,['non-emergency'],normal
+"severe severe headache, need medical help",['health'],critical
+no issues reported in residential area,['non-emergency'],normal
+person bleeding after accident,['health'],critical
+need ambulance for burns,['health'],normal
+no issues reported in residential area,['non-emergency'],normal
+"warehouse is burning, people trapped inside",['fire'],critical
+smoke coming from the station,['fire'],normal
+individual suffering from severe headache,['health'],normal
+gunshots heard near market,['police'],normal
+patient is injured and not responding,['health'],critical
+"severe breathing difficulty, need medical help",['health'],critical
+explosion heard at residential area,['fire'],critical
+burglary attempt at residential area,['police'],normal
+severe headache and heavy bleeding at scene,['health'],normal
+car stolen from warehouse,['police'],normal
+robbery reported at warehouse,['police'],normal
+smoke coming from the market,['fire'],critical
+explosion heard at market,['fire'],normal
+"station is burning, people trapped inside",['fire'],normal
+everything is fine at market,['non-emergency'],normal
+"market is burning, people trapped inside",['fire'],critical
+"severe chest pain, need medical help",['health'],critical
+flames spreading rapidly in market,['fire'],normal
+no issues reported in market,['non-emergency'],normal
+fire in the office,['fire'],critical
+short circuit fire near office,['fire'],critical
+suspect with bat seen in school,['police'],critical
+robbery reported at factory,['police'],critical
+"market is burning, people trapped inside",['fire'],critical
+patient is fainted and not responding,['health'],critical
+no issues reported in warehouse,['non-emergency'],normal
+need ambulance for breathing difficulty,['health'],normal
+flames spreading rapidly in market,['fire'],normal
+suspect with knife seen in school,['police'],critical
+severe headache and heavy bleeding at scene,['health'],critical
+patient is unconscious and not responding,['health'],normal
+fight broke out near residential area,['police'],normal
+safety drill conducted at warehouse,['non-emergency'],normal
+gunshots heard near school,['police'],critical
+fire in the office,['fire'],critical
+training exercise completed successfully,['non-emergency'],normal
+suspect with crowbar seen in residential area,['police'],normal
+fight broke out near warehouse,['police'],critical
+gunshots heard near factory,['police'],critical
+training exercise completed successfully,['non-emergency'],normal
+training exercise completed successfully,['non-emergency'],normal
+training exercise completed successfully,['non-emergency'],normal
+burglary attempt at residential area,['police'],critical
+car stolen from warehouse,['police'],critical
+routine maintenance ongoing,['non-emergency'],normal
+burglary attempt at warehouse,['police'],critical
+individual suffering from chest pain,['health'],critical
+car stolen from station,['police'],normal
+individual suffering from breathing difficulty,['health'],normal
+short circuit fire near office,['fire'],normal
+fight broke out near office,['police'],normal
+routine maintenance ongoing,['non-emergency'],normal
+smoke coming from the factory,['fire'],critical
+fight broke out near market,['police'],critical
+burglary attempt at station,['police'],normal
+chest pain and heavy bleeding at scene,['health'],normal
+no issues reported in office,['non-emergency'],normal
+"warehouse is burning, people trapped inside",['fire'],critical
+gunshots heard near factory,['police'],critical
+robbery reported at residential area,['police'],normal
+no issues reported in residential area,['non-emergency'],normal
+safety drill conducted at residential area,['non-emergency'],normal
+smoke coming from the office,['fire'],normal
+fever and heavy bleeding at scene,['health'],critical
+individual suffering from burns,['health'],normal
+flames spreading rapidly in factory,['fire'],critical
+fight broke out near factory,['police'],normal
+routine maintenance ongoing,['non-emergency'],normal
+routine maintenance ongoing,['non-emergency'],normal
+fire in the warehouse,['fire'],normal
+person collapsed after accident,['health'],critical
+person injured after accident,['health'],critical
+burns and heavy bleeding at scene,['health'],critical
+individual suffering from chest pain,['health'],normal
+flames spreading rapidly in residential area,['fire'],critical
+training exercise completed successfully,['non-emergency'],normal
+routine maintenance ongoing,['non-emergency'],normal
+gunshots heard near factory,['police'],critical
+false alarm triggered in school,['non-emergency'],normal
+no issues reported in residential area,['non-emergency'],normal
