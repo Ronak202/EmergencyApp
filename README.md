@@ -36,26 +36,25 @@ It uses **Sentence-Transformer embeddings**, **multi-label classification**, **F
 
 ---
 
-## 🧩 Project Structure  
-📁 Smart-Emergency-System
-│
-├── app.py
-├── train_model.py
-├── emergency_dataset.csv
-│
-├── transformer_embedder.pkl
-├── main_model.pkl
-├── sub_model.pkl
-├── label_binarizer.pkl
-├── subcategory_encoder.pkl
-│
-├── templates/
-├── static/
-├── signup/
-│
-├── .env
-├── requirements.txt
-└── README.md
+## 🧩 Project Structure
+
+- **app.py**
+- **train_model.py**
+- **emergency_dataset.csv**
+
+- **transformer_embedder.pkl**
+- **main_model.pkl**
+- **sub_model.pkl**
+- **label_binarizer.pkl**
+- **subcategory_encoder.pkl**
+
+- **templates/**
+- **static/**
+- **signup/**
+
+- **.env**
+- **requirements.txt**
+- **README.md**
 
 
 
